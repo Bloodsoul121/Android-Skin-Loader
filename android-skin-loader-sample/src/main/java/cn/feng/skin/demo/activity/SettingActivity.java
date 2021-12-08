@@ -8,6 +8,9 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.blankj.utilcode.util.AppUtils;
+import com.blankj.utilcode.util.Utils;
+
 import java.io.File;
 
 import cn.feng.skin.demo.R;
@@ -23,9 +26,8 @@ public class SettingActivity extends BaseActivity {
 	 * eg:
 	 * /mnt/sdcard/BlackFantacy.skin
 	 */
-	private static final String SKIN_NAME = "BlackFantacy.skin";
-	private static final String SKIN_DIR = Environment
-			.getExternalStorageDirectory() + File.separator + SKIN_NAME;
+	public static final String SKIN_NAME = "BlackFantacy.skin";
+	public static final String SKIN_DIR = Utils.getApp().getFilesDir().getAbsolutePath() + File.separator + SKIN_NAME;
 	
 	
 	private TextView titleText;

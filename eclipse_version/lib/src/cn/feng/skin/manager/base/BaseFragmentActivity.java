@@ -4,7 +4,7 @@ import java.lang.reflect.Field;
 import java.util.List;
 
 import android.os.Bundle;
-import android.support.v4.app.FragmentActivity;
+import androidx.core.app.FragmentActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import cn.feng.skin.manager.entity.DynamicAttr;

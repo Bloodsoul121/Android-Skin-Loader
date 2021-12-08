@@ -5,6 +5,7 @@ import cn.feng.skin.manager.loader.SkinManager;
 
 public class SkinApplication extends Application {
 	
+	@Override
 	public void onCreate() {
 		super.onCreate();
 		

@@ -1,9 +1,10 @@
 package cn.feng.skin.manager.base;
 
 import android.os.Bundle;
-import android.support.v4.app.FragmentActivity;
 import android.view.LayoutInflater;
 import android.view.View;
+
+import androidx.fragment.app.FragmentActivity;
 
 import java.lang.reflect.Field;
 import java.util.List;
@@ -79,7 +80,9 @@ public class BaseFragmentActivity extends FragmentActivity implements ISkinUpdat
 
 	@Override
 	public void onThemeUpdate() {
-		if(!isResponseOnSkinChanging) return;
+		if(!isResponseOnSkinChanging) {
+			return;
+		}
 		mSkinInflaterFactory.applySkin();
 	}
 	

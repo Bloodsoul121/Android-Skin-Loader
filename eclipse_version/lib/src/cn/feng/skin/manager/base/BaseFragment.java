@@ -3,7 +3,7 @@ package cn.feng.skin.manager.base;
 import java.util.List;
 
 import android.app.Activity;
-import android.support.v4.app.Fragment;
+import androidx.core.app.Fragment;
 import android.view.View;
 import cn.feng.skin.manager.entity.DynamicAttr;
 import cn.feng.skin.manager.listener.IDynamicNewView;
