@@ -31,32 +31,196 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c457eff-bc51-417a-9c18-951b52b3ccf5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/activity/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_blankj_utilcodex_1_30_6_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_blankj_utilcodex_1_30_6_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/android-skin-loader-sample/Android-Skin-Loader.android-skin-loader-sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/android-skin-loader-sample/Android-Skin-Loader.android-skin-loader-sample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/android-skin-loader-skin/Android-Skin-Loader.android-skin-loader-skin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/android-skin-loader-skin/Android-Skin-Loader.android-skin-loader-skin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Android-Skin-Loader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Android-Skin-Loader.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-lib/android-skin-loader-lib.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-lib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-lib/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-lib/src/main/java/cn/feng/skin/manager/base/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-lib/src/main/java/cn/feng/skin/manager/base/BaseFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-lib/src/main/java/cn/feng/skin/manager/base/BaseFragmentActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-lib/src/main/java/cn/feng/skin/manager/base/BaseFragmentActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-lib/src/main/java/cn/feng/skin/manager/loader/SkinManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-lib/src/main/java/cn/feng/skin/manager/loader/SkinManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/android-skin-loader-sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-lib/src/main/java/cn/feng/skin/manager/loader/SkinInflaterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-lib/src/main/java/cn/feng/skin/manager/loader/SkinInflaterFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/activity/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/activity/SettingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/activity/SettingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/assets/BlackFantacy.skin" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/assets/BlackFantacy.skin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/assets/article.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/activity/DetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/activity/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/activity/SettingActivity.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/app/SkinApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/app/SkinApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/android-skin-loader-skin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/entity/SkinSetting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/java/cn/feng/skin/demo/fragment/ArticleListFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/color/news_item_text_color_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable-hdpi/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable-xxhdpi/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable-hdpi/skin_setting_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable-xxhdpi/skin_setting_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable-hdpi/skin_setting_press.png" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable-xxhdpi/skin_setting_press.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable/news_item_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/drawable/setting_btn_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout/activity_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout/activity_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout/fragment_article_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout/include_detail_title_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout/include_main_title_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout/item_news_title.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-skin/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/androidTest/java/com/example/android_skin_laoder_skin/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-skin/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/color/news_item_text_color_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/drawable/news_item_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/drawable/news_item_text_color_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/drawable/setting_btn_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-skin-loader-skin/src/test/java/com/example/android_skin_laoder_skin/ExampleUnitTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/base/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/base/BaseFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/base/BaseFragmentActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/base/BaseFragmentActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/activity/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/apk/Android-Skin-Loader-sample.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/apk/BlackFantacy.skin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/base/BaseActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/base/BaseFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/base/BaseFragmentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/config/SkinConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/entity/AttrFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/entity/BackgroundAttr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/entity/DividerAttr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/entity/DynamicAttr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/entity/ListSelectorAttr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/entity/SkinAttr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/entity/SkinItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/entity/TextColorAttr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/listener/IAttrUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/listener/IDynamicNewView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/listener/ILoaderListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/listener/IResourceParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/listener/ISkinChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/listener/ISkinLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/listener/ISkinUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/loader/SkinInflaterFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/loader/SkinManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/CommonBaseAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/CommonViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/L.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/MapUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/ObjectUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/PreferencesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/ResourceUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/lib/src/cn/feng/skin/manager/util/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/assets/article.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/custom_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/image/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/color/news_item_text_color_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/drawable-hdpi/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/drawable-hdpi/skin_setting_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/drawable-hdpi/skin_setting_press.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/drawable/news_item_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/drawable/setting_btn_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/layout/activity_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/layout/activity_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/layout/fragment_article_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/layout/include_detail_title_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/layout/include_main_title_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/layout/item_news_title.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/values/color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/activity/DetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/activity/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/activity/SettingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/app/SkinApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/entity/SkinSetting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/sample/src/cn/feng/skin/demo/fragment/ArticleListFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy.skin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/color/news_item_text_color_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/drawable-hdpi/skin_setting_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/drawable-hdpi/skin_setting_press.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/drawable/news_item_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/drawable/news_item_text_color_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/drawable/setting_btn_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/values/color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse_version/skin/BlackFantacy/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectFilesBackup/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin-package/BlackFantacy.skin" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +244,40 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/android-skin-loader-skin">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Android-Skin-Loader" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Android-Skin-Loader" type="f1a62948:ProjectNode" />
+                <item name="android-skin-loader-skin" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Android-Skin-Loader" type="f1a62948:ProjectNode" />
+                <item name="android-skin-loader-skin" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Android-Skin-Loader" type="f1a62948:ProjectNode" />
+                <item name="android-skin-loader-skin" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Android-Skin-Loader" type="f1a62948:ProjectNode" />
+                <item name="android-skin-loader-skin" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -94,14 +286,15 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
-    <option name="y" value="23" />
-    <option name="width" value="1875" />
-    <option name="height" value="1057" />
   </component>
   <component name="ProjectId" id="21x4jD2CtYQt3ZeAksgkbfTKpZw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -111,7 +304,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-redmi_k30-425064bc" />
+    <property name="DEBUGGABLE_PROCESS" value="cn.feng.skin.demo" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="247" />
+    <property name="android-custom-viewD:/SDK/sources/android-28/android/widget/ImageView.java_SELECTED" value="ImageView" />
     <property name="android.project.structure.last.selected" value="android-skin-loader-skin" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="device.picker.selection" value="0261fc12" />
@@ -121,15 +319,18 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/android-skin-loader-sample/src/main" />
+    <key name="android.template.584669294">
+      <recent name="cn.feng.skin.demo.activity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\github\Android-Skin-Loader\android-skin-loader-sample\src\main\assets" />
+      <recent name="D:\WorkSpace\github\Android-Skin-Loader\android-skin-loader-skin\src\main\res\drawable" />
+      <recent name="D:\WorkSpace\github\Android-Skin-Loader\android-skin-loader-skin\src\main\res\color" />
+      <recent name="D:\WorkSpace\github\Android-Skin-Loader\android-skin-loader-sample\src\main\res\color" />
       <recent name="$PROJECT_DIR$/android-skin-laoder-skin/src/main/res/drawable-hdpi" />
-      <recent name="$PROJECT_DIR$/android-skin-laoder-skin/src/main/res/drawable" />
-      <recent name="$PROJECT_DIR$/android-skin-laoder-skin/src/main/res" />
-      <recent name="$PROJECT_DIR$/android-skin-loader-sample/src/main/res/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android-skin-loader-sample/src/main" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.android-skin-loader-sample">
@@ -470,6 +671,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Android-Skin-Loader:android-skin-loader-skin [assembleDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/android-skin-loader-skin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleDebug" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Android-Skin-Loader:android-skin-loader-skin [assembleRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/android-skin-loader-skin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleRelease" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Android-Skin-Loader:android-skin-loader-skin [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/android-skin-loader-skin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -479,6 +737,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Android-Skin-Loader:android-skin-loader-skin [assembleDebug]" />
+        <item itemvalue="Gradle.Android-Skin-Loader:android-skin-loader-skin [assemble]" />
+        <item itemvalue="Gradle.Android-Skin-Loader:android-skin-loader-skin [assembleRelease]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -512,41 +777,69 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="359" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638932175140">
+    <state x="359" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639019532037">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="359" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1638932175140" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1638871835653">
+    <state x="359" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1639019532037" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639019772870">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1638871835653" />
-    <state width="1237" height="412" key="GridCell.Tab.0.bottom" timestamp="1638873747724">
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1639019772870" />
+    <state x="397" y="86" key="AndroidProcessChooserDialog" timestamp="1639019585893">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="412" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1638873747724" />
-    <state width="1237" height="412" key="GridCell.Tab.0.center" timestamp="1638873747723">
+    <state x="397" y="86" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1639019585893" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1639016474886">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="412" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1638873747723" />
-    <state width="1237" height="412" key="GridCell.Tab.0.left" timestamp="1638873747723">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1639016474886" />
+    <state width="1237" height="230" key="GridCell.Tab.0.bottom" timestamp="1639020910565">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="412" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1638873747723" />
-    <state width="1237" height="412" key="GridCell.Tab.0.right" timestamp="1638873747724">
+    <state width="1237" height="230" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639020910565" />
+    <state width="1237" height="230" key="GridCell.Tab.0.center" timestamp="1639020910565">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="412" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1638873747724" />
+    <state width="1237" height="230" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639020910565" />
+    <state width="1237" height="230" key="GridCell.Tab.0.left" timestamp="1639020910565">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="230" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639020910565" />
+    <state width="1237" height="230" key="GridCell.Tab.0.right" timestamp="1639020910565">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="230" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639020910565" />
+    <state width="1237" height="261" key="GridCell.Tab.1.bottom" timestamp="1639019719773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639019719773" />
+    <state width="1237" height="261" key="GridCell.Tab.1.center" timestamp="1639019719773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1639019719773" />
+    <state width="1237" height="261" key="GridCell.Tab.1.left" timestamp="1639019719773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1639019719773" />
+    <state width="1237" height="261" key="GridCell.Tab.1.right" timestamp="1639019719773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1639019719773" />
+    <state x="288" y="44" key="NewModule_or_Project.wizard" timestamp="1639015260476">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="288" y="44" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1639015260476" />
     <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1638932433335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1638932433335" />
-    <state x="339" y="72" width="655" height="536" key="find.popup" timestamp="1638930683693">
+    <state x="339" y="72" width="655" height="536" key="find.popup" timestamp="1638934546913">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="339" y="72" width="655" height="536" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1638930683693" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1638932424455">
+    <state x="339" y="72" width="655" height="536" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1638934546913" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1638956969427">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1638932424455" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1638956969427" />
   </component>
 </project>

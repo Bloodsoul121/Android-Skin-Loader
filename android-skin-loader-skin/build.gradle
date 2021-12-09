@@ -1,7 +1,5 @@
 apply plugin: 'com.android.application'
 
-def skinName = "BlackFantacy.skin"
-
 android {
     signingConfigs {
         config {
@@ -11,14 +9,10 @@ android {
             storePassword 'fengjun'
         }
     }
-    compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
     defaultConfig {
         applicationId "com.example.android_skin_laoder_skin"
-        minSdkVersion 17
-        targetSdkVersion 23
-        versionCode 1
-        versionName "1.0"
     }
     buildTypes {
         release {
@@ -32,60 +26,52 @@ android {
     }
 }
 
-dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    testCompile 'junit:junit:4.12'
-    compile 'androidx.appcompat:appcompat:1.0.0'
-}
-
 final def TARGET_SKIN_DIR = '../skin-package/'
+final def skinName = "BlackFantacy.skin"
 
 gradle.projectsEvaluated {
+
     assembleRelease.doLast {
         println("=====================assembleRelease.doLast.begin.=========================")
-
         def dir = new File(TARGET_SKIN_DIR)
         if (!dir.exists()) {
             dir.mkdirs()
         }
-
         def f = new File(TARGET_SKIN_DIR + skinName)
         if (f.exists()) {
             f.delete()
+            println("=====================assembleRelease.doLast.delete=========================")
         }
-
         copy {
-            from('build/outputs/apk')
+            from('build/outputs/apk/release')
             into(TARGET_SKIN_DIR)
             include '*.apk'
             exclude '**/*-unaligned.apk'
-            rename ('android-skin-loader-skin-release.apk', skinName)
+            rename('android-skin-loader-skin-release.apk', skinName)
         }
-
         println("=====================assembleRelease.doLast success.=========================")
     }
 
     assembleDebug.doLast {
         println("=====================assembleDebug.doLast.begin.=========================")
-
         def dir = new File(TARGET_SKIN_DIR)
         if (!dir.exists()) {
             dir.mkdirs()
         }
-
         def f = new File(TARGET_SKIN_DIR + skinName)
+        println("=====================assembleDebug.doLast.savePath ${f.absolutePath} =========================")
+        println("=====================assembleDebug.doLast.exists ${f.exists()} =========================")
         if (f.exists()) {
             f.delete()
+            println("=====================assembleDebug.doLast.delete=========================")
         }
-
         copy {
-            from('build/outputs/apk')
+            from('build/outputs/apk/debug')
             into(TARGET_SKIN_DIR)
             include '*.apk'
             exclude '**/*-unaligned.apk'
-            rename ('android-skin-loader-skin-debug.apk', skinName)
+            rename('android-skin-loader-skin-debug.apk', skinName)
         }
-
         println("=====================assembleDebug.doLast success.=========================")
     }
 }
